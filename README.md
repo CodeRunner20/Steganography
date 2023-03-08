@@ -9,8 +9,11 @@ pip to install 'opencv,pillow and numpy'
 
 
 pip install opencv-python
+
 pip install pillow
+
 pip install numpy
+
 
 usage
 
@@ -24,22 +27,23 @@ STEGANOGRAPHY comes from the Greek Words: STEGANOS – “Covered”, GRAPHIE �
 The various types of steganography include:
 
 
-Image Steganography
+#Image Steganography
 
-Audio Steganography
+#Audio Steganography
 
-Video Steganography
+#Video Steganography
 
-Text files Steganography
+#Text files Steganography
+
 
 
 Types of Images:
 
-Black and white
+#Black and white
 
-Geryscale
+#Geryscale
 
-RGB
+#RGB
 
 In a gray scale image each pixel is represented in 8 bits. The last bit in a pixel is called as Least Significant bit as its value will affect the pixel value only by “1”. So, this property is used to hide the data in the image. If anyone have considered last two bits as LSB bits as they will affect the pixel value only by “3”
 
