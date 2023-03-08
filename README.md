@@ -4,6 +4,7 @@ This Project Describes the use of LSB Steganography.
 Installation
 Use the package manager pip to install 'opencv,pillow and numpy'
 
+
 pip install opencv-python
 pip install pillow
 pip install numpy
