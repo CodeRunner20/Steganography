@@ -1,6 +1,20 @@
 # Steganography
 This Project Describes the use of LSB Steganography.
 
+Installation
+Use the package manager pip to install 'opencv,pillow and numpy'
+
+pip install opencv-python
+pip install pillow
+pip install numpy
+
+usage
+step-1. clonning--> git clone repo. or download zip file
+
+step-2. run 'python imgstegno.py'
+
+step-3. give respective inputes and get outputs
+
 STEGANOGRAPHY comes from the Greek Words: STEGANOS – “Covered”, GRAPHIE – “Writing”. The sender hides his/her message within an image/audio/video.Since the algorithm uses the lease significant bit to hide the secret message the change is undectable by a naked eye.
 The various types of steganography include:
 
@@ -50,3 +64,5 @@ Steganalysis is the study of detecting messages hidden using steganography
 LSB Steganography can be detected by looking at the histograms of the files
 
 Also lossy compression technique can render LSB Steganography useless to an extent, so lossless compression techniques should be used
+
+
